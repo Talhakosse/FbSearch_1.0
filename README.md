@@ -1,9 +1,7 @@
 # FbSearch_1.0
 
 Gerekli kütüphaneler
-'''
-Elmalı
-'''
+`Elam`
 ```python
 pip install Flask 
 pip install selenium
